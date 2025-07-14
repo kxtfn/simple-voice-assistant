@@ -1,0 +1,9 @@
+openai==1.65.4
+rpi_ws281x
+sounddevice
+numpy
+pyaudio
+pvporcupine
+gtts
+gpiozero
+scipy
